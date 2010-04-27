@@ -9,9 +9,9 @@
     <groupId>com.threeaspen.android</groupId>
     <artifactId>android-app</artifactId>
     <packaging>jar</packaging>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.1</version>
     <name>Android Application Library</name>
     <scm>
-        <developerConnection>scm:svn:svn+ssh://svn.broudy.net/svn-projects/broudy/mobile/android-app/trunk</developerConnection>
+        <developerConnection>scm:svn:svn+ssh://svn.broudy.net/svn-projects/broudy/mobile/android-app/tags/android-app-1.1</developerConnection>
     </scm>
 </project>
